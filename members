@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="創価大学,工学部,篠宮研究室,環境,光ファイバー" />
+<meta name="description" content="篠宮研究室のメンバーを紹介します" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<link rel="stylesheet" href="assets/templates/css/base.css" type="text/css" />
+<link rel="canonical" href="http://shinolab.tech/">
+<title>創価大学工学部情報システム工学科 篠宮研究室 | メンバー紹介</title>
+</head>
+<body id="member">
+<div id="wrapper_bottom">
+<div id="container">
+
+	<div id="head">
+		<h1><a href="index.html" title="創価大学工学部情報システム工学科 篠宮研究室" name="top">創価大学工学部情報システム工学科 篠宮研究室</a></h1>
+		<div id="soka_logo"><span>創価大学</span></div>
+	</div>
+	<!--▼メインメニュー-->
+	<div id="main_menu">
+			<ul><li id="mainmenu1"><a href="index.html" title="ホーム" >ホーム</a></li>
+<li id="mainmenu8"><a href="project.html" title="研究プロジェクト" >研究プロジェクト</a></li>
+<li id="mainmenu2"><a href="achievement.html" title="論文紹介" >論文紹介</a></li>
+<li id="mainmenu4" class="active"><a href="member.html" title="メンバー紹介" >メンバー紹介</a></li>
+<li id="mainmenu5" class="last"><a href="contact.html" title="お問い合わせ" >お問い合わせ</a></li>
+</ul>
+	</div>
+	<!--▲メインメニュー-->
+			<!--▼カヴァー-->
+				<div id="cover">
+					<h2>SHINOMIYA Laboratory</h2>
+				</div>
+			<!--▲カヴァー-->
+	<!--▼ボディ-->
+	<div id="body">
+		<!--▽コンテンツ-->
+			<div id="contents">
+					<h3>メンバー紹介</h3>
+
+<table>
+<tr><th>教員</th></tr>
+<tr><td>篠宮 紀彦（教授）</td></tr>
+</table>
+
+<table>
+<tr><th colspan="6">大学院博士(博士後期)課程</th></tr>
+<tr><td>小林 英雄</td><td>長谷 亮</td><td>宮下 正明</td></tr>
+</table>
+
+<table>
+<tr><th colspan="7">大学院修士(博士前期)課程</th></tr>
+<tr><td>今堀 光恵</td></tr>
+<tr><td>太田 裕也</td><td>大西 沙奈</td><td>川口 永一郎</td><td>新澤 晃一</td><td>戸田 光一</td><td>山田 大樹</td></tr>
+<tr><td>井門 史貴</td><td>田村 優人</td><td>西村 大地</td><td>坂野 伸彦</td><td>吉田 賢一</td></tr>
+</table>
+
+<table>
+<tr><th colspan="7">学部生</th></tr>
+<td><td>中水 祐太</td><td>馬場 真意人</td></tr>
+<tr><td>大野木 文弥</td><td>高井 光一</td><td>高頭 光一</td><td>谷口 明彦</td><td>橋本 拓未</td><td>橋本 直輝</td><td>壬生 明日香</td></tr>
+<tr><td>鈴本 清</td><td>三池 伸二</td><td>安齋 大樹</td><td>中島 太</td><td>清水 大智</td><td>芝田 貴之</td><td>若松 篤史</td></tr>
+</table>
+
+<div class="imgCenter"><img src="assets/images/graduation2017.jpg" width="50%" height="50%"/></div>
+
+<div id="contents">
+<h4>主な就職先と進学先</h4>
+<table>
+<tr><td>
+ＩＢＭ、インテル、ＫＤＤＩ、ソフトバンク、ＮＴＴデータ、富士通、富士通研究所、ＮＥＣ、日立製作所
+<br>
+シュルンベルジェ、ＮＥＣ通信システム、住友情報システム、日立ソリューションズ、富士通ソフトウェアテクノロジーズ
+<br>
+ＫＳＧインターナショナル、東洋システム、日本ネットシステム
+<br>
+University of California Irvine (Ph.D)、ピエール・マリー・キュリー大学（パリ第６大学）大学院
+</td></tr>
+
+</table>
+
+					<div class="goTop">
+						<a href="#top" title="ページトップへ戻る">ページトップへ</a>
+					</div>
+				<div class="clear"></div>
+			</div>
+		<!--△コンテンツ-->
+	</div>
+
+	<!--▲ボディ-->
+	<!--▽フッター-->
+	<div id="footer">
+
+		<!--banner-->
+		<div id="banner">
+			<ul>
+				<li id="banner01"><a href="http://www.soka.ac.jp/"  target="_blank" title="創価大学">創価大学</a></li>
+				<li id="banner02"><a href="http://www.t.soka.ac.jp/" target="_blank" title="創価大学 工学部">創価大学 工学部</a></li>
+			</ul>
+		</div>
+		<!--banner-->
+
+		<!--copyright-->
+			<div id="copyright">
+				Copyrights. SHINOMIYA Laboratory. Japan All Rights Reserved.
+			</div>
+		<!--copyright-->
+		<div class="clear"></div>
+	</div>
+	<!--△フッター-->
+
+
+</div>
+</div>
+<!--/container-->
+
+
+</body>
+</html>
